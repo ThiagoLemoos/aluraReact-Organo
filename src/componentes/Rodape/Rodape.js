@@ -2,7 +2,7 @@ import './Rodape.css'
 
 export const Rodape = () => {
     return (
-        <div className='rodape'>
+        <div className='rodapedapagina'>
             <div className='logos'> 
                 <img src='/imagens/fb.png' alt='Facebook Logo' />
                 <img src='/imagens/tw.png' alt='Twitter Logo'/>

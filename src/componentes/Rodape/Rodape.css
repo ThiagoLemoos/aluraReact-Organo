@@ -1,4 +1,4 @@
-.rodape {
+.rodapedapagina {
     background-color: #6278F7;
     width: 100%;
     height: 213px;
@@ -11,7 +11,7 @@
     text-align: center;
 }
 
-.rodape .logos {
+.rodapedapagina .logos {
     margin-left: 100px;
     width: 160px;
     display: flex;
@@ -20,7 +20,7 @@
 }
 
 
-.rodape h5 {
+.rodapedapagina h5 {
     color: #FFFFFF;
     margin-right: 30px;
     align-items: center;
