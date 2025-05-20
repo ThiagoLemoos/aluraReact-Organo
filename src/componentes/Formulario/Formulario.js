@@ -12,6 +12,7 @@ export const Formulario = (props) => {
     const[imagem, setImagem] = useState('')
     const[time, setTime] = useState('')
 
+    
     const aoSalvar = (evento) => {
         evento.preventDefault()
         props.aoColaboradorCadastrado({
@@ -23,7 +24,6 @@ export const Formulario = (props) => {
         setNome('')
         setCargo('')
         setImagem('')
-        setTime('')
     }
     
     return (
